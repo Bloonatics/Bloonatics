@@ -6,10 +6,20 @@
 
 # About Me
 
+## Roles
+
 - Discord bot developer
 - Discord community server contributor
 
-# Bloony
+## Strengths
+
+- Individual programming project
+- Discord user interface
+- Discord application programming interface
+
+# My Contributions
+
+## Bloony
 
 Bloony is a multi-purpose bot with info, fun, utility, moderation and server management. Project aims to implement automation in community servers and significantly improve your Discord experience.
 
@@ -26,7 +36,7 @@ Bloony is a multi-purpose bot with info, fun, utility, moderation and server man
   </p>
 </div>
 
-# Dank Sky
+## Dank Sky
 
 Friendly server with tons of giveaways & events. An active and open community where all are welcome to join and stay!
 
@@ -41,7 +51,7 @@ Friendly server with tons of giveaways & events. An active and open community wh
   </p>
 </div>
 
-# High5
+## High5
 
 A big and friendly community with huge giveaways and heists daily!
 
